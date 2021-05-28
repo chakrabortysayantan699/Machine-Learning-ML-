@@ -17,7 +17,7 @@ def gradient_decent(cur_x,lr_rate,df,precision=0.00001,max_iter=500,prev_stepsiz
         prev_x=cur_x
         cur_x=cur_x-lr_rate*df(prev_x)
         prev_stepsize=np.abs(cur_x-prev_x)
-        iters=+1
+        iters+=1
         y=cur_x**2
         x_up.append(cur_x)
         y_up.append(y)
