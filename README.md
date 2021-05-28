@@ -7,7 +7,7 @@ Thnik about a ball that rolling down from a hill, what will be it's behaviour?
 
 It will take the lowest path until  it comes to the lowest point of the hill that is the palne
 
-# picture
+<img src="Intitution/Intitutin.gif">
 
 **Gradient decent** also works like this it starts from a point(Starting point) and take the path that have lower gradient 
 
