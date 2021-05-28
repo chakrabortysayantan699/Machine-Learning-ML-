@@ -31,7 +31,7 @@ Let us assume the learning rate → 0.2
 
 **Step 3** After  every iteration (after moving each step) check whether it reaches to local minimum or not 
 
-# output 1
+<img src="ouputs/Grd_dec.png">
 **The plot of our fuction**
 # output 2
 **After useing Gradient Decent**
