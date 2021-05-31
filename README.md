@@ -1,6 +1,8 @@
 # Machine-Learning-ML-
 Basic ML algorithm implementation in python
 
+## 1. Gradient Decent
+
 **Intitution :**
 
 Thnik about a ball that rolling down from a hill, what will be it's behaviour?
