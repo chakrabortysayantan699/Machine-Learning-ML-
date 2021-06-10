@@ -101,6 +101,21 @@ local mninimum occurs at 3.741444191567113e-05
 
 <img src="Outputs/Grd_dec.png">
 
+##2. Linear Regression(Simplest Version)
+
+**Motive** 
+In regression we want to predict on a contious data set for doing Predict we should foloow ta  some steps
+
+**Step 1**: We must have a data set (in this we have taken a small simple datset with only two features)
+**step 2**: Now we have to Visulalize our datasets that how co-realted our features are .(to keep it simple it's ignored here)
+
+<img src="Outputs/sim_linear_reg1.png>
+
+**step 3**: Then we have to split our datasets for training and testing
+**step 4**: Then we to have train our model by fit() 
+**step 5**: Prediction Takes place by Predict()
+**step 6**: Then plot the result
+
 
 
 
