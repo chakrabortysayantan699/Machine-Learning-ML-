@@ -7,7 +7,8 @@ from sklearn.model_selection import train_test_split
 from jupyterthemes import jtplot as jt
 
 #import dataset
-data=pd.read_csv('./simple_regression_data.csv')
+#you will get it in datasets folder
+data=pd.read_csv('.datsets/simple_regression_data.csv')
 #this returns a DataFrame
 
 #Visualizing datasets 
