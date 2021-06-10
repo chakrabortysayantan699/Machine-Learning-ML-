@@ -101,20 +101,35 @@ local mninimum occurs at 3.741444191567113e-05
 
 <img src="Outputs/Grd_dec.png">
 
-##2. Linear Regression(Simplest Version)
+## 2. Linear Regression(Simplest Version):
 
-**Motive** 
-In regression we want to predict on a contious data set for doing Predict we should foloow ta  some steps
+**Motive :** 
 
-**Step 1**: We must have a data set (in this we have taken a small simple datset with only two features)
-**step 2**: Now we have to Visulalize our datasets that how co-realted our features are .(to keep it simple it's ignored here)
+The Regression falls under Supervised learning 
 
-<img src="Outputs/sim_linear_reg1.png>
+In regression we want to predict on a contious data set and place a hyperplane on the datasets and try to give a correct hyphothesis
 
-**step 3**: Then we have to split our datasets for training and testing
-**step 4**: Then we to have train our model by fit() 
-**step 5**: Prediction Takes place by Predict()
-**step 6**: Then plot the result
+# Process :
+
+**Step 1:** We must have a data set (in this we have taken a small simple datset with only two features)
+
+**Step 2:** Now we have to Visulalize our datasets that how co-realted our features are .(to keep it simple it's ignored here)
+
+<img src="Outputs/sim_linear_reg1.png">
+
+**Step 3:** Then we have to split our datasets for training and testing
+
+**Step 4:** Then we to have train our model by fit() 
+
+**Step 5:** Prediction Takes place by Predict()
+
+**Step 6:** Then plot the result
+
+
+# Output
+<img src="Outputs/simp_linear_reg2.png">
+
+
 
 
 
