@@ -127,6 +127,7 @@ In regression we want to predict on a contious data set and place a hyperplane o
 
 
 # Output
+
 <img src="Outputs/simp_linear_reg2.png">
 
 
